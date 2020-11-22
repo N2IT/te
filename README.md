@@ -1,3 +1,8 @@
+## Editing Take 2 ##
+
+Walking through the exercise for a second time
+
+
 ## Who I am ##
 
 I'm writing up something to test creating a new branch, commit changes, and remerge to main branch.
